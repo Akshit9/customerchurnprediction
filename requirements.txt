@@ -2,4 +2,5 @@ Flask
 numpy
 pandas
 sklearn
+pickle
 gunicorn==20.0.4
