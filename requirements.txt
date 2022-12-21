@@ -1,4 +1,5 @@
 Flask
 numpy
 pandas
+sklearn
 gunicorn==20.0.4
