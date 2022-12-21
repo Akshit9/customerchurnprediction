@@ -1,4 +1,4 @@
 Flask
 numpy
 pandas
-gunicorn
+gunicorn==20.0.4
